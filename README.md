@@ -1,5 +1,10 @@
 # skilvul-be
 
+## Run Project
+
+- Install: `yarn`
+- Run Local: `yarn dev`
+
 ## Endpoint:
 
 Base URL: https://skilvul-be-production.up.railway.app/api/
